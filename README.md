@@ -1,4 +1,4 @@
-# NSLOOKUP command dockerized #
+# Nslookup command dockerized #
 This is a docker build with the linux nslookup command. The image is based on the Ubuntu image included the dnsutils package.
 
 ## Build
